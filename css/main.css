@@ -4,3 +4,56 @@ body
     background: #9fcdff;
 
 }
+
+
+
+.header__wrapper
+
+{
+    background-image: url("../img/hero1.jpg");
+   height: 40em;
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.header__wrapper h1
+{
+
+
+font-size: 5em;
+line-height: 4em;
+
+    letter-spacing:0.5em;
+}
+
+button
+{
+
+    padding:1em 4em;
+    font-size:1.5em;
+    opacity: 0.4;
+    transition: opacity 0.5s;
+
+
+}
+
+button:hover
+{
+
+    opacity: 0.6;
+
+
+}
+
+
+a{
+
+    color:black;
+
+
+
+}
